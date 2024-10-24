@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Front-End Web Developer. It's what I dream of everyday.
 - 🌱 I’m currently learning about everything that has to do with Front-end Web Development.
 - 💞️ I’m looking to collaborate on nothing at the moment.
-- 📫 Best way to contact me: halidbajrami
+- 📫 Best way to contact me: halidbajrami13@gmail.com
 
 <!---
 Halid-Baj/Halid-Baj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
