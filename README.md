@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Halid Bajrami
-- 👀 I’m interested in becoming a Front-End Web Developer. It's what I dream of everyday.
-- 🌱 I’m currently learning about everything that has to do with Front-end Web Development.
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 👋 Hello, I am Halid. 
+- 👀 I love building... I just never get ideas of what to build. 
+- 👑 On my way to becoming the best Frontend Developer
 - 📫 Best way to contact me: halidbajrami13@gmail.com
 
 <!---
